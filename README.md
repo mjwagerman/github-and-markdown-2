@@ -32,7 +32,7 @@ Save your changes.
 ## Step 5: Stage and Commit
    ```bash
    git add .
-   git commit -m "Added my first contribution 🎉"
+   git commit -m "Added my first contribution"
    ```
 ## Step 6: Push to GitHub
 Push your branch up to your fork:
