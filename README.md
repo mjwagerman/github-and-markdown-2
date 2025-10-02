@@ -2,14 +2,11 @@
 
 In this tutorial, you’ll learn how to make a **Pull Request (PR)** on GitHub. A Pull Request is how you suggest changes to someone else’s repository. Think of it as saying: *“Here’s my homework, can you check it and maybe add it to the class project?”*
 
----
-
 ## Step 1: Fork the Repository
 1. Go to this repo’s main page: [github-and-markdown-2](https://github.com/mjwagerman/github-and-markdown-2/).
 2. In the top right corner, click the **Fork** button.  
    This makes your own copy of the repo under your GitHub account.
 
----
 
 ## Step 2: Clone Your Fork
 1. On **your forked repo page**, click the green **Code** button.
